@@ -1,4 +1,4 @@
-export enum FiilterStatus {
+export enum FilterStatus {
     PENDING = "penfing",
     DONE = "done",
 }
